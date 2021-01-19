@@ -1,0 +1,82 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	background-image: url(../images/patron.jpg);
+	cursor: url(../images/2.cur),pointer;
+}
+a, a:hover
+{
+	cursor: url(../images/3.cur),pointer;
+}
+#contenedor
+{
+	cursor: url(../images/1.cur),pointer;
+	width: 960px;
+	height: 900px;
+	margin: 0px auto;
+	background-color: black;
+}
+header
+{
+	width: 960px;
+	height: 200px;
+	background-color: blue;
+	float: left;
+}
+nav
+{
+	width: 960px;
+	height: 50px;
+	background-color: #80bfff;
+	float: left;
+}
+main
+{
+	width: 460px;
+	height: 550px;
+	background-color: #0073e6;
+	float: left;
+}
+#m1
+{
+	width: 400px;
+	height: 500px;
+	background-color: #ccccff;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+section
+{
+	width: 350px;
+	height: 550px;
+	background-image: url(../images/art.jpg);
+	float: left;
+}
+.s1
+{
+	width: 250px;
+	height: 250px;
+	background-color: rgba(122, 133, 143, 0.5);
+	margin-top: 15px;
+	margin-left: 50px;
+	float: left;
+
+}
+aside
+{
+	width: 150px;
+	height: 550px;
+	background-color: #0077e6;
+	float: left;
+}
+footer
+{
+	width: 960px;
+	height: 100px;
+	background-color: #001a33;
+	float: left;
+}
